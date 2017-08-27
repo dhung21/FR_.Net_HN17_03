@@ -1,0 +1,6 @@
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment6_HungDM10\Assignment 6\bin\Debug\Assignment 6.exe.config
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment6_HungDM10\Assignment 6\obj\Debug\Assignment 6.csprojResolveAssemblyReference.cache
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment6_HungDM10\Assignment 6\bin\Debug\Assignment 6.exe
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment6_HungDM10\Assignment 6\bin\Debug\Assignment 6.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment6_HungDM10\Assignment 6\obj\Debug\Assignment 6.exe
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment6_HungDM10\Assignment 6\obj\Debug\Assignment 6.pdb

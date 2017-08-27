@@ -1,0 +1,6 @@
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment5_HungDM10\BTNB_Assignment5_HungDM10\bin\Debug\BTNB_Assignment5_HungDM10.exe.config
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment5_HungDM10\BTNB_Assignment5_HungDM10\obj\Debug\BTNB_Assignment5_HungDM10.csprojResolveAssemblyReference.cache
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment5_HungDM10\BTNB_Assignment5_HungDM10\bin\Debug\BTNB_Assignment5_HungDM10.exe
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment5_HungDM10\BTNB_Assignment5_HungDM10\bin\Debug\BTNB_Assignment5_HungDM10.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment5_HungDM10\BTNB_Assignment5_HungDM10\obj\Debug\BTNB_Assignment5_HungDM10.exe
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment5_HungDM10\BTNB_Assignment5_HungDM10\obj\Debug\BTNB_Assignment5_HungDM10.pdb
