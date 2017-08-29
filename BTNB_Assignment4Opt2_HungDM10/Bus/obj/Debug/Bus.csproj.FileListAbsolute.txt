@@ -1,0 +1,8 @@
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\bin\Debug\Bus.dll
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\bin\Debug\Bus.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\bin\Debug\Dao.dll
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\bin\Debug\Dao.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\obj\Debug\Bus.csprojResolveAssemblyReference.cache
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\obj\Debug\Bus.dll
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Bus\obj\Debug\Bus.pdb

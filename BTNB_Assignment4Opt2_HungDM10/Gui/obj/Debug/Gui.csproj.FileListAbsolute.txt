@@ -1,0 +1,16 @@
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\bin\Debug\Gui.exe.config
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\bin\Debug\Gui.exe
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\bin\Debug\Gui.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\bin\Debug\Bus.dll
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\bin\Debug\Dao.dll
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\bin\Debug\Bus.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\bin\Debug\Dao.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.csprojResolveAssemblyReference.cache
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.Form1.resources
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.Properties.Resources.resources
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.csproj.GenerateResource.Cache
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.exe
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.pdb
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.FrmNewContact.resources
+D:\Program Files\Visual Studio\Projects\BTNB_Assignment4Opt2_HungDM10\Gui\obj\Debug\Gui.FrmContact.resources
