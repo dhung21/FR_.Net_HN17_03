@@ -1,0 +1,5 @@
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Dao\bin\Debug\Dao.dll
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Dao\bin\Debug\Dao.pdb
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Dao\obj\Debug\Dao.dll
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Dao\obj\Debug\Dao.pdb
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache

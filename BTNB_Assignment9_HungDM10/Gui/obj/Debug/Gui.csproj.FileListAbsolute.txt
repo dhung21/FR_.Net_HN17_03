@@ -1,0 +1,13 @@
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\bin\Debug\Gui.exe.config
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\bin\Debug\Gui.exe
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\bin\Debug\Gui.pdb
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\obj\Debug\Gui.csprojResolveAssemblyReference.cache
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\obj\Debug\Gui.Form1.resources
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\obj\Debug\Gui.Properties.Resources.resources
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\obj\Debug\Gui.csproj.GenerateResource.Cache
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\obj\Debug\Gui.exe
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\obj\Debug\Gui.pdb
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\bin\Debug\Bus.dll
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\bin\Debug\Dao.dll
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\bin\Debug\Bus.pdb
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Gui\bin\Debug\Dao.pdb

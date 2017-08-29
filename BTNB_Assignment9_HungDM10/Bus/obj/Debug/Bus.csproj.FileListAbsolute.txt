@@ -1,0 +1,7 @@
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Bus\bin\Debug\Bus.dll
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Bus\bin\Debug\Bus.pdb
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Bus\bin\Debug\Dao.dll
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Bus\bin\Debug\Dao.pdb
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Bus\obj\Debug\Bus.csprojResolveAssemblyReference.cache
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Bus\obj\Debug\Bus.dll
+D:\HungDM10\BTNB\Projects\BTNB_Assignment9_HungDM10\Bus\obj\Debug\Bus.pdb
